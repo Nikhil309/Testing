@@ -43,11 +43,7 @@ public class Train
 	 public String getClass_type() {
 		 return class_type;
 	 }
-	 //setter
-	 public void setClass_type(String class_type){
-		 this.class_type = class_type;
-	 }
-
+	 
 	 //@Override Method
 	 public String toString() {
 		 	return "Train [Trainname=" + TrainName + ", no_of_tickets="
